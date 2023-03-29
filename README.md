@@ -1,10 +1,10 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# mySQL All For One
+O projeto mySQL All For One visava testar os conhecimentos de queries SQL aprendidos durante a segunda seção do módulo de back-end do curso da Trybe.
+
+Os requisitos envolviam consultas e manipulações dos dados do banco Northwind, como queries para buscar, filtrar, inserir, atualizar e apagar informações (CRUD).
+
+## A estrutura do projeto
+O projeto possuí diversos requisitos, que são resolvidos com uma query SQL. Cada resolução foi colocada em um arquivo no formato `desafio<número do requisito>.sql`.
+
+## Tecnologias utilizadas
+- mySQL
